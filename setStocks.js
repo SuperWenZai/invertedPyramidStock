@@ -2509,4 +2509,16 @@ setStocks &&
       name: '江苏瞬天',
       exchange: 'SH',
     },
+    {
+      code: '605118',
+      price: 29.27,
+      name: '力鼎光电',
+      exchange: 'SH',
+    },
+    {
+      code: '002660',
+      price: 14.58,
+      name: '茂硕电源',
+      exchange: 'SZ',
+    },
   ]);
